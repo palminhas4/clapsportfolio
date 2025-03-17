@@ -1,0 +1,12 @@
+---
+title: "Healthcare Analytics Project"
+subtitle: "Predicting Patient Readmission Risk"
+---
+
+## Project Overview
+
+This project aims to develop a predictive model for hospital readmission risk within 30 days of discharge. By identifying high-risk patients early, healthcare providers can implement targeted interventions to improve patient outcomes and reduce healthcare costs.
+
+::: {.callout-important}
+This project uses de-identified patient data and adheres to all applicable privacy regulations and ethical guidelines. No real patient identifiers are included in our analysis.
+:::
