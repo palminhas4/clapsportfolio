@@ -1,0 +1,274 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Our Team",
+    "section": "",
+    "text": "Data Science Explorers is a collaborative team formed in Fall 2024 as part of the Advanced Data Science program at [Your University]. Our team brings together diverse backgrounds in statistics, computer science, and domain expertise to tackle complex data challenges."
+  },
+  {
+    "objectID": "about.html#who-we-are",
+    "href": "about.html#who-we-are",
+    "title": "About Our Team",
+    "section": "",
+    "text": "Data Science Explorers is a collaborative team formed in Fall 2024 as part of the Advanced Data Science program at [Your University]. Our team brings together diverse backgrounds in statistics, computer science, and domain expertise to tackle complex data challenges."
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About Our Team",
+    "section": "Our Mission",
+    "text": "Our Mission\nWe aim to develop impactful data science solutions that address real-world problems while advancing our technical skills and research capabilities. Our projects emphasize reproducible methods, ethical data practices, and clear communication of findings."
+  },
+  {
+    "objectID": "about.html#team-members",
+    "href": "about.html#team-members",
+    "title": "About Our Team",
+    "section": "Team Members",
+    "text": "Team Members\n\n\n\n\nGabriel Dias\nSales Engineer\nAlex specializes in data pipeline development and machine learning operations. With a background in computer science, they ensure our projects maintain high standards of code quality and reproducibility.\n\nSkills: Python, SQL, TensorFlow, AWS\nCourses: Advanced Machine Learning, Big Data Systems\nEmail: gabriel.diasprado2015@gmail.com\n\n\n\n\n\n\nJosé Marcos\nAnalista de Risco\nJamie brings strong statistical expertise to the team, focusing on experimental design and hypothesis testing. Their background in biostatistics is particularly valuable for our healthcare projects.\n\nSkills: R, Statistical Modeling, Bayesian Analysis\nCourses: Statistical Learning, Causal Inference\nEmail: j.smith@university.edu\n\n\n\n\n\n\nArthur Liz (O Fofinho)\nAnalista Financeiro\nTaylor excels at transforming complex data into compelling visualizations. With experience in graphic design and data analysis, they ensure our findings are communicated effectively.\n\nSkills: Tableau, D3.js, Data Storytelling\nCourses: Information Visualization, UX Design\nEmail: t.rodriguez@university.edu\n\n\n\n\n\n\nLucas Kainã\nDomain Expert\nJordan contributes domain knowledge in environmental science and economics. Their interdisciplinary background helps connect our technical work to real-world applications.\n\nSkills: Geospatial Analysis, Time Series Modeling\nCourses: Environmental Data Science, Economic Forecasting\nEmail: jordan.l@university.edu"
+  },
+  {
+    "objectID": "about.html#our-approach",
+    "href": "about.html#our-approach",
+    "title": "About Our Team",
+    "section": "Our Approach",
+    "text": "Our Approach\nOur data science methodology follows these principles:\n\nProblem-First: We begin with a clear problem statement before diving into data collection\nIterative Analysis: We develop solutions incrementally, refining our approach based on findings\nReproducible Research: All code and documentation is version-controlled and well-documented\nEthical Consideration: We prioritize privacy, bias mitigation, and responsible use of algorithms\nEffective Communication: Results are presented in accessible formats for technical and non-technical audiences"
+  },
+  {
+    "objectID": "about.html#faculty-advisor",
+    "href": "about.html#faculty-advisor",
+    "title": "About Our Team",
+    "section": "Faculty Advisor",
+    "text": "Faculty Advisor\n\n\n\n\n\nProfessor Rodrigo Ozon\nEconomista com mestrado em Desenvolvimento Econômico pela UFPR, atualmente buscando um doutora em Engenharia de Produção e Sistemas na PUCPR. Com especialização em Econometria, Modelagem de Dados Econômicos e Ciência de Dados, ele atualmente está na posição de Engenheiro de dados na Volvo."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Our Projects",
+    "section": "",
+    "text": "Our team works on diverse data science projects spanning multiple domains and techniques. Each project demonstrates different aspects of our analytical capabilities and domain knowledge.\n\n\n\n\n\n\nNote\n\n\n\nAll projects include full documentation, code repositories, and interactive visualizations where applicable.",
+    "crumbs": [
+      "Our Projects"
+    ]
+  },
+  {
+    "objectID": "projects.html#project-portfolio",
+    "href": "projects.html#project-portfolio",
+    "title": "Our Projects",
+    "section": "",
+    "text": "Our team works on diverse data science projects spanning multiple domains and techniques. Each project demonstrates different aspects of our analytical capabilities and domain knowledge.\n\n\n\n\n\n\nNote\n\n\n\nAll projects include full documentation, code repositories, and interactive visualizations where applicable.",
+    "crumbs": [
+      "Our Projects"
+    ]
+  },
+  {
+    "objectID": "projects.html#current-projects",
+    "href": "projects.html#current-projects",
+    "title": "Our Projects",
+    "section": "Current Projects",
+    "text": "Current Projects\n\n\n\n\n\nHealthcare Analytics\n\n\nPredicting patient readmission risks using hospital data and machine learning algorithms.\n\n\nTechniques: Random Forest, Logistic Regression, Survival Analysis\nTools: Python, scikit-learn, pandas\n\nView Project\n\n\n\n\n\n\nClimate Change Patterns\n\n\nAnalyzing regional climate data to identify long-term trends and potential impact areas.\n\n\nTechniques: Time Series Analysis, Geospatial Modeling, Neural Networks\nTools: R, TensorFlow, QGIS\n\nView Project\n\n\n\n\n\n\nEconomic Indicators\n\n\nExploring correlations between economic indicators and market performance.\n\n\nTechniques: Multivariate Regression, Sentiment Analysis, Forecasting\nTools: Python, NLTK, Prophet\n\nView Project",
+    "crumbs": [
+      "Our Projects"
+    ]
+  },
+  {
+    "objectID": "projects.html#past-projects",
+    "href": "projects.html#past-projects",
+    "title": "Our Projects",
+    "section": "Past Projects",
+    "text": "Past Projects\n\n\n\n\nSocial Media Analysis\n\n\nAnalyzed engagement patterns across social platforms to identify content strategy recommendations.\n\n\nTechniques: Network Analysis, NLP, Clustering\nTools: Python, NetworkX, Gephi\nCompleted: Fall 2024\n\nView Summary\n\n\n\n\n\nUrban Transportation Patterns\n\n\nModeled public transit usage to optimize routes and schedules based on demand patterns.\n\n\nTechniques: Optimization, Simulation, Spatial Analysis\nTools: R, Julia, OpenStreetMap\nCompleted: Spring 2024\n\nView Summary",
+    "crumbs": [
+      "Our Projects"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Thank you for your interest in Data Science Explorers. We welcome collaboration opportunities, feedback on our projects, and inquiries about our work.\n\n\n\n\nIf you have questions about our projects or potential collaborations, please reach out to us.\nEmail: datascience.explorers@university.edu\nLocation: Science Hall, Room 203B\nOffice Hours: Monday-Thursday 1:00-3:00pm\n\n\n\nDr. Morgan Chen\nAssociate Professor, Statistics and Data Science\nm.chen@university.edu\nScience Hall, Room 305\n\n\n\n\n\n\n&lt;label for=\"name\" class=\"form-label\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"name\" placeholder=\"Your name\"&gt;\n\n\n&lt;label for=\"email\" class=\"form-label\"&gt;Email address&lt;/label&gt;\n&lt;input type=\"email\" class=\"form-control\" id=\"email\" placeholder=\"your.email@example.com\"&gt;\n\n\n&lt;label for=\"subject\" class=\"form-label\"&gt;Subject&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"subject\" placeholder=\"Subject\"&gt;\n\n\n&lt;label for=\"message\" class=\"form-label\"&gt;Message&lt;/label&gt;\n&lt;textarea class=\"form-control\" id=\"message\" rows=\"5\" placeholder=\"Your message\"&gt;&lt;/textarea&gt;\n\n\nSubmit\n\n\nNote: This is a template form that needs backend processing to function."
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Thank you for your interest in Data Science Explorers. We welcome collaboration opportunities, feedback on our projects, and inquiries about our work.\n\n\n\n\nIf you have questions about our projects or potential collaborations, please reach out to us.\nEmail: datascience.explorers@university.edu\nLocation: Science Hall, Room 203B\nOffice Hours: Monday-Thursday 1:00-3:00pm\n\n\n\nDr. Morgan Chen\nAssociate Professor, Statistics and Data Science\nm.chen@university.edu\nScience Hall, Room 305\n\n\n\n\n\n\n&lt;label for=\"name\" class=\"form-label\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"name\" placeholder=\"Your name\"&gt;\n\n\n&lt;label for=\"email\" class=\"form-label\"&gt;Email address&lt;/label&gt;\n&lt;input type=\"email\" class=\"form-control\" id=\"email\" placeholder=\"your.email@example.com\"&gt;\n\n\n&lt;label for=\"subject\" class=\"form-label\"&gt;Subject&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"subject\" placeholder=\"Subject\"&gt;\n\n\n&lt;label for=\"message\" class=\"form-label\"&gt;Message&lt;/label&gt;\n&lt;textarea class=\"form-control\" id=\"message\" rows=\"5\" placeholder=\"Your message\"&gt;&lt;/textarea&gt;\n\n\nSubmit\n\n\nNote: This is a template form that needs backend processing to function."
+  },
+  {
+    "objectID": "contact.html#follow-our-work",
+    "href": "contact.html#follow-our-work",
+    "title": "Contact Us",
+    "section": "Follow Our Work",
+    "text": "Follow Our Work\n\nGitHub: github.com/datascienceexplorers\nTwitter: @DataSciExplorers\nDepartment Blog: university.edu/data-science-blog"
+  },
+  {
+    "objectID": "contact.html#join-our-team",
+    "href": "contact.html#join-our-team",
+    "title": "Contact Us",
+    "section": "Join Our Team",
+    "text": "Join Our Team\nWe occasionally have openings for new team members with interest in data science projects. Current students at [Your University] can apply during our recruitment periods at the beginning of each semester."
+  },
+  {
+    "objectID": "clapsportfolio-main/project1/index.html",
+    "href": "clapsportfolio-main/project1/index.html",
+    "title": "Healthcare Analytics Project",
+    "section": "",
+    "text": "This project aims to develop a predictive model for hospital readmission risk within 30 days of discharge. By identifying high-risk patients early, healthcare providers can implement targeted interventions to improve patient outcomes and reduce healthcare costs.\n\n\n\n\n\n\nImportant\n\n\n\nThis project uses de-identified patient data and adheres to all applicable privacy regulations and ethical guidelines. No real patient identifiers are included in our analysis."
+  },
+  {
+    "objectID": "clapsportfolio-main/project1/index.html#project-overview",
+    "href": "clapsportfolio-main/project1/index.html#project-overview",
+    "title": "Healthcare Analytics Project",
+    "section": "",
+    "text": "This project aims to develop a predictive model for hospital readmission risk within 30 days of discharge. By identifying high-risk patients early, healthcare providers can implement targeted interventions to improve patient outcomes and reduce healthcare costs.\n\n\n\n\n\n\nImportant\n\n\n\nThis project uses de-identified patient data and adheres to all applicable privacy regulations and ethical guidelines. No real patient identifiers are included in our analysis."
+  },
+  {
+    "objectID": "clapsportfolio-main/contact.html",
+    "href": "clapsportfolio-main/contact.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Thank you for your interest in Data Science Explorers. We welcome collaboration opportunities, feedback on our projects, and inquiries about our work.\n\n\n\n\nIf you have questions about our projects or potential collaborations, please reach out to us.\nEmail: datascience.explorers@university.edu\nLocation: Science Hall, Room 203B\nOffice Hours: Monday-Thursday 1:00-3:00pm\n\n\n\nDr. Morgan Chen\nAssociate Professor, Statistics and Data Science\nm.chen@university.edu\nScience Hall, Room 305\n\n\n\n\n\n\n&lt;label for=\"name\" class=\"form-label\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"name\" placeholder=\"Your name\"&gt;\n\n\n&lt;label for=\"email\" class=\"form-label\"&gt;Email address&lt;/label&gt;\n&lt;input type=\"email\" class=\"form-control\" id=\"email\" placeholder=\"your.email@example.com\"&gt;\n\n\n&lt;label for=\"subject\" class=\"form-label\"&gt;Subject&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"subject\" placeholder=\"Subject\"&gt;\n\n\n&lt;label for=\"message\" class=\"form-label\"&gt;Message&lt;/label&gt;\n&lt;textarea class=\"form-control\" id=\"message\" rows=\"5\" placeholder=\"Your message\"&gt;&lt;/textarea&gt;\n\n\nSubmit\n\n\nNote: This is a template form that needs backend processing to function."
+  },
+  {
+    "objectID": "clapsportfolio-main/contact.html#get-in-touch",
+    "href": "clapsportfolio-main/contact.html#get-in-touch",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Thank you for your interest in Data Science Explorers. We welcome collaboration opportunities, feedback on our projects, and inquiries about our work.\n\n\n\n\nIf you have questions about our projects or potential collaborations, please reach out to us.\nEmail: datascience.explorers@university.edu\nLocation: Science Hall, Room 203B\nOffice Hours: Monday-Thursday 1:00-3:00pm\n\n\n\nDr. Morgan Chen\nAssociate Professor, Statistics and Data Science\nm.chen@university.edu\nScience Hall, Room 305\n\n\n\n\n\n\n&lt;label for=\"name\" class=\"form-label\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"name\" placeholder=\"Your name\"&gt;\n\n\n&lt;label for=\"email\" class=\"form-label\"&gt;Email address&lt;/label&gt;\n&lt;input type=\"email\" class=\"form-control\" id=\"email\" placeholder=\"your.email@example.com\"&gt;\n\n\n&lt;label for=\"subject\" class=\"form-label\"&gt;Subject&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"subject\" placeholder=\"Subject\"&gt;\n\n\n&lt;label for=\"message\" class=\"form-label\"&gt;Message&lt;/label&gt;\n&lt;textarea class=\"form-control\" id=\"message\" rows=\"5\" placeholder=\"Your message\"&gt;&lt;/textarea&gt;\n\n\nSubmit\n\n\nNote: This is a template form that needs backend processing to function."
+  },
+  {
+    "objectID": "clapsportfolio-main/contact.html#follow-our-work",
+    "href": "clapsportfolio-main/contact.html#follow-our-work",
+    "title": "Contact Us",
+    "section": "Follow Our Work",
+    "text": "Follow Our Work\n\nGitHub: github.com/datascienceexplorers\nTwitter: @DataSciExplorers\nDepartment Blog: university.edu/data-science-blog"
+  },
+  {
+    "objectID": "clapsportfolio-main/contact.html#join-our-team",
+    "href": "clapsportfolio-main/contact.html#join-our-team",
+    "title": "Contact Us",
+    "section": "Join Our Team",
+    "text": "Join Our Team\nWe occasionally have openings for new team members with interest in data science projects. Current students at [Your University] can apply during our recruitment periods at the beginning of each semester."
+  },
+  {
+    "objectID": "clapsportfolio-main/about.html",
+    "href": "clapsportfolio-main/about.html",
+    "title": "About Our Team",
+    "section": "",
+    "text": "Data Science Explorers is a collaborative team formed in Fall 2024 as part of the Advanced Data Science program at [Your University]. Our team brings together diverse backgrounds in statistics, computer science, and domain expertise to tackle complex data challenges."
+  },
+  {
+    "objectID": "clapsportfolio-main/about.html#who-we-are",
+    "href": "clapsportfolio-main/about.html#who-we-are",
+    "title": "About Our Team",
+    "section": "",
+    "text": "Data Science Explorers is a collaborative team formed in Fall 2024 as part of the Advanced Data Science program at [Your University]. Our team brings together diverse backgrounds in statistics, computer science, and domain expertise to tackle complex data challenges."
+  },
+  {
+    "objectID": "clapsportfolio-main/about.html#our-mission",
+    "href": "clapsportfolio-main/about.html#our-mission",
+    "title": "About Our Team",
+    "section": "Our Mission",
+    "text": "Our Mission\nWe aim to develop impactful data science solutions that address real-world problems while advancing our technical skills and research capabilities. Our projects emphasize reproducible methods, ethical data practices, and clear communication of findings."
+  },
+  {
+    "objectID": "clapsportfolio-main/about.html#team-members",
+    "href": "clapsportfolio-main/about.html#team-members",
+    "title": "About Our Team",
+    "section": "Team Members",
+    "text": "Team Members\n\n\n\n\nGabriel Dias\nSales Engineer\nAlex specializes in data pipeline development and machine learning operations. With a background in computer science, they ensure our projects maintain high standards of code quality and reproducibility.\n\nSkills: Python, SQL, TensorFlow, AWS\nCourses: Advanced Machine Learning, Big Data Systems\nEmail: gabriel.diasprado2015@gmail.com\n\n\n\n\n\n\nJosé Marcos\nAnalista de Risco\nJamie brings strong statistical expertise to the team, focusing on experimental design and hypothesis testing. Their background in biostatistics is particularly valuable for our healthcare projects.\n\nSkills: R, Statistical Modeling, Bayesian Analysis\nCourses: Statistical Learning, Causal Inference\nEmail: j.smith@university.edu\n\n\n\n\n\n\nArthur Liz (O Fofinho)\nAnalista Financeiro\nTaylor excels at transforming complex data into compelling visualizations. With experience in graphic design and data analysis, they ensure our findings are communicated effectively.\n\nSkills: Tableau, D3.js, Data Storytelling\nCourses: Information Visualization, UX Design\nEmail: t.rodriguez@university.edu\n\n\n\n\n\n\nLucas Kainã\nDomain Expert\nJordan contributes domain knowledge in environmental science and economics. Their interdisciplinary background helps connect our technical work to real-world applications.\n\nSkills: Geospatial Analysis, Time Series Modeling\nCourses: Environmental Data Science, Economic Forecasting\nEmail: jordan.l@university.edu"
+  },
+  {
+    "objectID": "clapsportfolio-main/about.html#our-approach",
+    "href": "clapsportfolio-main/about.html#our-approach",
+    "title": "About Our Team",
+    "section": "Our Approach",
+    "text": "Our Approach\nOur data science methodology follows these principles:\n\nProblem-First: We begin with a clear problem statement before diving into data collection\nIterative Analysis: We develop solutions incrementally, refining our approach based on findings\nReproducible Research: All code and documentation is version-controlled and well-documented\nEthical Consideration: We prioritize privacy, bias mitigation, and responsible use of algorithms\nEffective Communication: Results are presented in accessible formats for technical and non-technical audiences"
+  },
+  {
+    "objectID": "clapsportfolio-main/about.html#faculty-advisor",
+    "href": "clapsportfolio-main/about.html#faculty-advisor",
+    "title": "About Our Team",
+    "section": "Faculty Advisor",
+    "text": "Faculty Advisor\n\n\n\n\n\nProfessor Rodrigo Ozon\nEconomista com mestrado em Desenvolvimento Econômico pela UFPR, atualmente buscando um doutora em Engenharia de Produção e Sistemas na PUCPR. Com especialização em Econometria, Modelagem de Dados Econômicos e Ciência de Dados, ele atualmente está na posição de Engenheiro de dados na Volvo."
+  },
+  {
+    "objectID": "clapsportfolio-main/index.html#welcome-to-data-science-explorers",
+    "href": "clapsportfolio-main/index.html#welcome-to-data-science-explorers",
+    "title": "Data Science Explorers",
+    "section": "Welcome to Data Science Explorers",
+    "text": "Welcome to Data Science Explorers\nWe are a team of data science students at [Your University] dedicated to exploring real-world problems through data analysis. Our projects span healthcare, environmental science, and economic analysis, applying machine learning and statistical techniques to extract meaningful insights."
+  },
+  {
+    "objectID": "clapsportfolio-main/index.html#featured-projects",
+    "href": "clapsportfolio-main/index.html#featured-projects",
+    "title": "Data Science Explorers",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n\n\n\nHealthcare Analytics\nPredicting patient readmission risks using hospital data and machine learning algorithms.\n\n\n\n\n\nClimate Change Patterns\nAnalyzing regional climate data to identify long-term trends and potential impact areas.\n\n\n\n\n\nEconomic Indicators\nExploring correlations between economic indicators and market performance."
+  },
+  {
+    "objectID": "clapsportfolio-main/index.html#our-team",
+    "href": "clapsportfolio-main/index.html#our-team",
+    "title": "Data Science Explorers",
+    "section": "Our Team",
+    "text": "Our Team\n\n\n\nAlex Johnson\nTeam Lead & Data Engineer\n\n\n\nJamie Smith\nStatistical Analyst\n\n\n\nTaylor Rodriguez\nVisualization Specialist\n\n\nLearn more about our team →"
+  },
+  {
+    "objectID": "clapsportfolio-main/index.html#latest-updates",
+    "href": "clapsportfolio-main/index.html#latest-updates",
+    "title": "Data Science Explorers",
+    "section": "Latest Updates",
+    "text": "Latest Updates\n\nMarch 2025: Presented our healthcare analytics project at the Student Research Symposium\nFebruary 2025: Added neural network models to our climate analysis project\nJanuary 2025: Welcomed new team member specialized in natural language processing"
+  },
+  {
+    "objectID": "clapsportfolio-main/projects.html",
+    "href": "clapsportfolio-main/projects.html",
+    "title": "Our Projects",
+    "section": "",
+    "text": "Our team works on diverse data science projects spanning multiple domains and techniques. Each project demonstrates different aspects of our analytical capabilities and domain knowledge.\n\n\n\n\n\n\nNote\n\n\n\nAll projects include full documentation, code repositories, and interactive visualizations where applicable."
+  },
+  {
+    "objectID": "clapsportfolio-main/projects.html#project-portfolio",
+    "href": "clapsportfolio-main/projects.html#project-portfolio",
+    "title": "Our Projects",
+    "section": "",
+    "text": "Our team works on diverse data science projects spanning multiple domains and techniques. Each project demonstrates different aspects of our analytical capabilities and domain knowledge.\n\n\n\n\n\n\nNote\n\n\n\nAll projects include full documentation, code repositories, and interactive visualizations where applicable."
+  },
+  {
+    "objectID": "clapsportfolio-main/projects.html#current-projects",
+    "href": "clapsportfolio-main/projects.html#current-projects",
+    "title": "Our Projects",
+    "section": "Current Projects",
+    "text": "Current Projects\n\n\n\n\n\nHealthcare Analytics\n\n\nPredicting patient readmission risks using hospital data and machine learning algorithms.\n\n\nTechniques: Random Forest, Logistic Regression, Survival Analysis\nTools: Python, scikit-learn, pandas\n\nView Project\n\n\n\n\n\n\nClimate Change Patterns\n\n\nAnalyzing regional climate data to identify long-term trends and potential impact areas.\n\n\nTechniques: Time Series Analysis, Geospatial Modeling, Neural Networks\nTools: R, TensorFlow, QGIS\n\nView Project\n\n\n\n\n\n\nEconomic Indicators\n\n\nExploring correlations between economic indicators and market performance.\n\n\nTechniques: Multivariate Regression, Sentiment Analysis, Forecasting\nTools: Python, NLTK, Prophet\n\nView Project"
+  },
+  {
+    "objectID": "clapsportfolio-main/projects.html#past-projects",
+    "href": "clapsportfolio-main/projects.html#past-projects",
+    "title": "Our Projects",
+    "section": "Past Projects",
+    "text": "Past Projects\n\n\n\n\nSocial Media Analysis\n\n\nAnalyzed engagement patterns across social platforms to identify content strategy recommendations.\n\n\nTechniques: Network Analysis, NLP, Clustering\nTools: Python, NetworkX, Gephi\nCompleted: Fall 2024\n\nView Summary\n\n\n\n\n\nUrban Transportation Patterns\n\n\nModeled public transit usage to optimize routes and schedules based on demand patterns.\n\n\nTechniques: Optimization, Simulation, Spatial Analysis\nTools: R, Julia, OpenStreetMap\nCompleted: Spring 2024\n\nView Summary"
+  },
+  {
+    "objectID": "project1/index.html",
+    "href": "project1/index.html",
+    "title": "Healthcare Analytics Project",
+    "section": "",
+    "text": "This project aims to develop a predictive model for hospital readmission risk within 30 days of discharge. By identifying high-risk patients early, healthcare providers can implement targeted interventions to improve patient outcomes and reduce healthcare costs.\n\n\n\n\n\n\nImportant\n\n\n\nThis project uses de-identified patient data and adheres to all applicable privacy regulations and ethical guidelines. No real patient identifiers are included in our analysis.",
+    "crumbs": [
+      "Project 1",
+      "Healthcare Analytics Project"
+    ]
+  },
+  {
+    "objectID": "project1/index.html#project-overview",
+    "href": "project1/index.html#project-overview",
+    "title": "Healthcare Analytics Project",
+    "section": "",
+    "text": "This project aims to develop a predictive model for hospital readmission risk within 30 days of discharge. By identifying high-risk patients early, healthcare providers can implement targeted interventions to improve patient outcomes and reduce healthcare costs.\n\n\n\n\n\n\nImportant\n\n\n\nThis project uses de-identified patient data and adheres to all applicable privacy regulations and ethical guidelines. No real patient identifiers are included in our analysis.",
+    "crumbs": [
+      "Project 1",
+      "Healthcare Analytics Project"
+    ]
+  }
+]
