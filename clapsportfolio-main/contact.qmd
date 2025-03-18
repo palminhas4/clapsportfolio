@@ -1,0 +1,64 @@
+---
+title: "Contact Us"
+---
+
+## Get In Touch
+
+Thank you for your interest in Data Science Explorers. We welcome collaboration opportunities, feedback on our projects, and inquiries about our work.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### General Inquiries
+
+If you have questions about our projects or potential collaborations, please reach out to us.
+
+**Email**: datascience.explorers@university.edu  
+**Location**: Science Hall, Room 203B  
+**Office Hours**: Monday-Thursday 1:00-3:00pm
+
+### Faculty Advisor
+
+**Dr. Morgan Chen**  
+Associate Professor, Statistics and Data Science  
+m.chen@university.edu  
+Science Hall, Room 305
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Contact Form
+
+<form>
+  <div class="mb-3">
+    <label for="name" class="form-label">Name</label>
+    <input type="text" class="form-control" id="name" placeholder="Your name">
+  </div>
+  <div class="mb-3">
+    <label for="email" class="form-label">Email address</label>
+    <input type="email" class="form-control" id="email" placeholder="your.email@example.com">
+  </div>
+  <div class="mb-3">
+    <label for="subject" class="form-label">Subject</label>
+    <input type="text" class="form-control" id="subject" placeholder="Subject">
+  </div>
+  <div class="mb-3">
+    <label for="message" class="form-label">Message</label>
+    <textarea class="form-control" id="message" rows="5" placeholder="Your message"></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+*Note: This is a template form that needs backend processing to function.*
+:::
+
+:::
+
+## Follow Our Work
+
+- **GitHub**: [github.com/datascienceexplorers](https://github.com/datascienceexplorers)
+- **Twitter**: [@DataSciExplorers](https://twitter.com/DataSciExplorers)
+- **Department Blog**: [university.edu/data-science-blog](https://university.edu/data-science-blog)
+
+## Join Our Team
+
+We occasionally have openings for new team members with interest in data science projects. Current students at [Your University] can apply during our recruitment periods at the beginning of each semester.

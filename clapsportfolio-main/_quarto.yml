@@ -1,0 +1,62 @@
+project:
+  type: website
+  output-dir: "."
+
+website:
+  title: "Data Science Group Name"
+  favicon: images/logo.png
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Us
+      - text: Projects
+        menu:
+          - href: projects.qmd
+            text: All Projects
+          - text: "---"
+          - href: project1/index.qmd
+            text: Project 1 Name
+          - href: project2/index.qmd
+            text: Project 2 Name
+          - href: project3/index.qmd
+            text: Project 3 Name
+      - href: blog/index.qmd
+        text: Blog
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/your-group
+      - icon: envelope
+        href: mailto:your-group@university.edu
+
+  sidebar:
+    - title: "Projects"
+      style: "docked"
+      contents:
+        - projects.qmd
+        - section: "Project 1"
+          contents:
+            - project1/index.qmd
+            - project1/data.qmd
+            - project1/analysis.qmd
+            - project1/results.qmd
+            - project1/methods.qmd
+        - section: "Project 2"
+          contents:
+            - project2/index.qmd
+            - project2/data.qmd
+            - project2/analysis.qmd
+            - project2/results.qmd
+            - project2/methods.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full

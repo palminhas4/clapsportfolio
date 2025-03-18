@@ -1,0 +1,95 @@
+---
+title: "About Our Team"
+---
+
+## Who We Are
+
+Data Science Explorers is a collaborative team formed in Fall 2024 as part of the Advanced Data Science program at \[Your University\]. Our team brings together diverse backgrounds in statistics, computer science, and domain expertise to tackle complex data challenges.
+
+## Our Mission
+
+We aim to develop impactful data science solutions that address real-world problems while advancing our technical skills and research capabilities. Our projects emphasize reproducible methods, ethical data practices, and clear communication of findings.
+
+## Team Members
+
+::::::: grid
+::: {.g-col-12 .g-col-md-6}
+![](images/gabrieldias.jpeg){.rounded-circle width="170" height="170"}
+
+### Gabriel Dias
+
+**Sales Engineer**
+
+Alex specializes in data pipeline development and machine learning operations. With a background in computer science, they ensure our projects maintain high standards of code quality and reproducibility.
+
+-   **Skills**: Python, SQL, TensorFlow, AWS
+-   **Courses**: Advanced Machine Learning, Big Data Systems
+-   **Email**: gabriel.diasprado2015\@gmail.com
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![](images/josemarcos.jpeg){.rounded-circle width="170" height="170"}
+
+### José Marcos
+
+**Analista de Risco**
+
+Jamie brings strong statistical expertise to the team, focusing on experimental design and hypothesis testing. Their background in biostatistics is particularly valuable for our healthcare projects.
+
+-   **Skills**: R, Statistical Modeling, Bayesian Analysis
+-   **Courses**: Statistical Learning, Causal Inference
+-   **Email**: j.smith\@university.edu
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![](images/arthurliz.jpeg){.rounded-circle width="170" height="170"}
+
+### Arthur Liz (O Fofinho)
+
+**Analista Financeiro**
+
+Taylor excels at transforming complex data into compelling visualizations. With experience in graphic design and data analysis, they ensure our findings are communicated effectively.
+
+-   **Skills**: Tableau, D3.js, Data Storytelling
+-   **Courses**: Information Visualization, UX Design
+-   **Email**: t.rodriguez\@university.edu
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![](images/lucaskaina.jpeg){.rounded-circle width="170" height="170"}
+
+### Lucas Kainã
+
+**Domain Expert**
+
+Jordan contributes domain knowledge in environmental science and economics. Their interdisciplinary background helps connect our technical work to real-world applications.
+
+-   **Skills**: Geospatial Analysis, Time Series Modeling
+-   **Courses**: Environmental Data Science, Economic Forecasting
+-   **Email**: jordan.l\@university.edu
+:::
+:::::::
+
+## Our Approach
+
+Our data science methodology follows these principles:
+
+1.  **Problem-First**: We begin with a clear problem statement before diving into data collection
+2.  **Iterative Analysis**: We develop solutions incrementally, refining our approach based on findings
+3.  **Reproducible Research**: All code and documentation is version-controlled and well-documented
+4.  **Ethical Consideration**: We prioritize privacy, bias mitigation, and responsible use of algorithms
+5.  **Effective Communication**: Results are presented in accessible formats for technical and non-technical audiences
+
+## Faculty Advisor
+
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+[![](images/profrodrigo.jpg){.rounded-circle width="170"}](https://rhozon.github.io/selecaodeprodutosnor/index.html)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+### Professor Rodrigo Ozon
+
+Economista com mestrado em Desenvolvimento Econômico pela UFPR, atualmente buscando um doutora em Engenharia de Produção e Sistemas na PUCPR. Com especialização em Econometria, Modelagem de Dados Econômicos e Ciência de Dados, ele atualmente está na posição de Engenheiro de dados na Volvo.
+:::
+:::::
