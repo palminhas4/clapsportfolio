@@ -93,3 +93,4 @@ Our data science methodology follows these principles:
 Economista com mestrado em Desenvolvimento Econômico pela UFPR, atualmente buscando um doutora em Engenharia de Produção e Sistemas na PUCPR. Com especialização em Econometria, Modelagem de Dados Econômicos e Ciência de Dados, ele atualmente está na posição de Engenheiro de dados na Volvo.
 :::
 :::::
+
