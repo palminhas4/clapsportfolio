@@ -84,28 +84,28 @@
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact Us",
+    "title": "Entre em contato",
     "section": "",
     "text": "Thank you for your interest in Data Science Explorers. We welcome collaboration opportunities, feedback on our projects, and inquiries about our work.\n\n\n\n\nIf you have questions about our projects or potential collaborations, please reach out to us.\nEmail: datascience.explorers@university.edu\nLocation: Science Hall, Room 203B\nOffice Hours: Monday-Thursday 1:00-3:00pm\n\n\n\nDr. Morgan Chen\nAssociate Professor, Statistics and Data Science\nm.chen@university.edu\nScience Hall, Room 305\n\n\n\n\n\n\n&lt;label for=\"name\" class=\"form-label\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"name\" placeholder=\"Your name\"&gt;\n\n\n&lt;label for=\"email\" class=\"form-label\"&gt;Email address&lt;/label&gt;\n&lt;input type=\"email\" class=\"form-control\" id=\"email\" placeholder=\"your.email@example.com\"&gt;\n\n\n&lt;label for=\"subject\" class=\"form-label\"&gt;Subject&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"subject\" placeholder=\"Subject\"&gt;\n\n\n&lt;label for=\"message\" class=\"form-label\"&gt;Message&lt;/label&gt;\n&lt;textarea class=\"form-control\" id=\"message\" rows=\"5\" placeholder=\"Your message\"&gt;&lt;/textarea&gt;\n\n\nSubmit\n\n\nNote: This is a template form that needs backend processing to function."
   },
   {
     "objectID": "contact.html#get-in-touch",
     "href": "contact.html#get-in-touch",
-    "title": "Contact Us",
+    "title": "Entre em contato",
     "section": "",
     "text": "Thank you for your interest in Data Science Explorers. We welcome collaboration opportunities, feedback on our projects, and inquiries about our work.\n\n\n\n\nIf you have questions about our projects or potential collaborations, please reach out to us.\nEmail: datascience.explorers@university.edu\nLocation: Science Hall, Room 203B\nOffice Hours: Monday-Thursday 1:00-3:00pm\n\n\n\nDr. Morgan Chen\nAssociate Professor, Statistics and Data Science\nm.chen@university.edu\nScience Hall, Room 305\n\n\n\n\n\n\n&lt;label for=\"name\" class=\"form-label\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"name\" placeholder=\"Your name\"&gt;\n\n\n&lt;label for=\"email\" class=\"form-label\"&gt;Email address&lt;/label&gt;\n&lt;input type=\"email\" class=\"form-control\" id=\"email\" placeholder=\"your.email@example.com\"&gt;\n\n\n&lt;label for=\"subject\" class=\"form-label\"&gt;Subject&lt;/label&gt;\n&lt;input type=\"text\" class=\"form-control\" id=\"subject\" placeholder=\"Subject\"&gt;\n\n\n&lt;label for=\"message\" class=\"form-label\"&gt;Message&lt;/label&gt;\n&lt;textarea class=\"form-control\" id=\"message\" rows=\"5\" placeholder=\"Your message\"&gt;&lt;/textarea&gt;\n\n\nSubmit\n\n\nNote: This is a template form that needs backend processing to function."
   },
   {
     "objectID": "contact.html#follow-our-work",
     "href": "contact.html#follow-our-work",
-    "title": "Contact Us",
+    "title": "Entre em contato",
     "section": "Follow Our Work",
     "text": "Follow Our Work\n\nGitHub: github.com/datascienceexplorers\nTwitter: @DataSciExplorers\nDepartment Blog: university.edu/data-science-blog"
   },
   {
     "objectID": "contact.html#join-our-team",
     "href": "contact.html#join-our-team",
-    "title": "Contact Us",
+    "title": "Entre em contato",
     "section": "Join Our Team",
     "text": "Join Our Team\nWe occasionally have openings for new team members with interest in data science projects. Current students at [Your University] can apply during our recruitment periods at the beginning of each semester."
   },
