@@ -2,7 +2,7 @@
 title: "Contact Us"
 ---
 
-## Get In Touch
+## Fale Conosco
 
 Thank you for your interest in Data Science Explorers. We welcome collaboration opportunities, feedback on our projects, and inquiries about our work.
 
