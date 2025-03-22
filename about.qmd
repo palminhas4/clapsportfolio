@@ -50,9 +50,9 @@ Jovem iniciando a carreira profissional, com o desígnio de desenvolver minhas c
 
 Sou estudante de Ciência de Dados para Negócios, com um forte foco na área financeira. Tenho experiência na análise de dados financeiros utilizando ferramentas como Looker Studio, Power BI e Tableau, transformando números em insights estratégicos. Também trabalho com Python e R para automação, modelagem e otimização de processos. Meu objetivo é unir tecnologia e finanças para desenvolver soluções que realmente façam a diferença na tomada de decisão e na performance empresarial.
 
--   **Skills**: Análise financeir, Modelagem preditiva, Python, R,  SQL, Power BI, Looker Studio, Tableau
+-   **Skills**: Análise financeir, Modelagem preditiva, Python, R, SQL, Power BI, Looker Studio, Tableau
 -   **Courses**: Ciências de Dados para Negócios, Administração
--   **Email**: arthuradeliz@gmail.com 
+-   **Email**: arthuradeliz\@gmail.com
 :::
 
 ::: {.g-col-12 .g-col-md-6}
