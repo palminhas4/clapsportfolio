@@ -44,7 +44,7 @@ Jovem iniciando a carreira profissional, com o desígnio de desenvolver minhas c
 ::: {.g-col-12 .g-col-md-6}
 ![](images/arthurliz.jpeg){.rounded-circle width="170" height="170"}
 
-### Arthur Liz
+### Arthur Liz O Braboo
 
 **Analista Financeiro**
 
